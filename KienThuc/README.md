@@ -3,7 +3,7 @@
 - n%2!=0
 # dem so chu so
 - chia cho 10
-# 
+# tim kiem max, min
 
 # variable
 # keyword
