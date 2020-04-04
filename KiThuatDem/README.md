@@ -1,1 +1,1 @@
-# chom an cut
+# chom an com
