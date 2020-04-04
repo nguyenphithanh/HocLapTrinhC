@@ -1,11 +1,25 @@
+# n le/chan = chia het cho 2 hay khong?
+- n%2==0
+- n%2!=0
+# dem so chu so
+- chia cho 10
+# 
+
 # variable
 # keyword
 # switch... case
 # if/else if/ else
 # loop
+## loop phai co:
+1. điểm bắt đầu 
+2. diểm dừng
+3. điểm tăng hoặc giảm
 - for loop
++ diem khac: biet so lan lap
 - while loop
++ khong biet so lan lap
 - do...while loop
++ khong biet so lan lap
 # struct
 # pointer
 # Data Structure

@@ -1,0 +1,1 @@
+# 1. o trong if thi tach ra 1 ham
