@@ -1,0 +1,1 @@
+# tinh tong => dat tong = s
