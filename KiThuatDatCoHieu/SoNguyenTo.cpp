@@ -42,4 +42,4 @@ int main(){
     int a[100] = {2, 3, 5, 6, 7};
     int n= 5;
     xuat(a,n);
-}
+
